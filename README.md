@@ -1,6 +1,7 @@
 # C-Programming
-Practise for C Programming
+Practising codes for C Programming
 
-Summary on Coursera Course
+Course Summaries
 
-"C for Everyone: Programming Fundamentals"
+- "C for Everyone: Programming Fundamentals"
+-  혼자 공부하는 C언어

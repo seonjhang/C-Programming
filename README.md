@@ -1,5 +1,5 @@
 # C-Programming
-Practising codes for C Programming
+Practicing codes for C Programming
 
 Course Summaries
 
